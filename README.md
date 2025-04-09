@@ -34,6 +34,6 @@ I want to:
 - Build real-world projects to show what I can do
 - Get better and more confident with computers
 
-## 🙏 Thank You
+##  Thank You
 Big thanks to my mentors and classmates at **Hamzatronic Technologies** for guiding and supporting me through my journey. I’m proud of my progress and I know I will keep getting better!
 
