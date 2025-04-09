@@ -11,7 +11,7 @@ So far, I have learned the following things:
 - How to use **Git and GitHub** to save my work online
 - How to make commits and push changes to GitHub
 
-## 🧠 What I Understand So Far
+##  What I Understand So Far
 - HTML is used to **structure** a webpage. It creates the headings, paragraphs, buttons, and so on.
 - CSS is used to **style** the page – it changes the colors, background, fonts, and layout.
 - Git helps me **save versions** of my work.
