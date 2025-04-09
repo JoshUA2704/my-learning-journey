@@ -25,7 +25,7 @@ In this project:
 - I used Git to track my progress.
 - I pushed my work to GitHub.
 
-## 📈 My Goals
+##  My Goals
 I want to:
 - Be able to create more advanced websites
 - Learn how to make pages interactive with JavaScript
