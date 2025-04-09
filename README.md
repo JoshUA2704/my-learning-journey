@@ -17,7 +17,7 @@ So far, I have learned the following things:
 - Git helps me **save versions** of my work.
 - GitHub is like an **online backpack** where I keep my project safe and share it with others.
 
-## 💻 About This Project
+##  About This Project
 In this project:
 - I created a simple web page using HTML.
 - I styled the page using a separate CSS file.
