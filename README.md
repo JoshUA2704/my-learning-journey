@@ -3,7 +3,7 @@
 ## 👋 About Me
 Hello! My name is [ayodele joshua]. I’m currently learning technology at **Hamzatronic Technologies**. I’m still new to computers, but I’m determined to grow and improve every day. I believe that learning how to build things with code is a powerful skill, and I’m excited to be on this journey.
 
-## 🎯 What I'm Learning
+##  What I'm Learning
 So far, I have learned the following things:
 - How to create a **simple website** using HTML
 - How to design the website using **CSS**
